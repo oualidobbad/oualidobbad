@@ -6,9 +6,9 @@
 
 | 🌟 **About Salah Eddine** | 🚀 **My 42 Campus Mission** |
 | :--- | :--- |
-| 🧑‍💻 **Salah Eddine Hrimiche** | [![shrimech's 42 stats](https://badge.mediaplus.ma/greenbinary/shrimech)](https://profile.intra.42.fr/users/shrimech) |
-| 🎂 **The Year:** 2001 (Level Up ⬆️: 24!) | **Campus:** 1337 - Coding School RABAT |
-| ⚡️ CURRENT STATUS: **CRUSHING IT @ 1337!** 🚀 | **portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) |
+| 🧑‍💻 **Salah Eddine Hrimiche** | [![shrimech's 42 stats](https://badge.mediaplus.ma/levi/oobbad)](https://profile.intra.42.fr/users/oobbad) |
+| 🎂 **The Year:** 2003 (Level Up ⬆️: 22!) | **Campus:** 1337 - Coding School RABAT |
+| ⚡️ CURRENT STATUS: **CRUSHING IT @ 1337!** 🚀 /*| **portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/)*/ |
 | 📬 **My Inbox:** `<eddinen77@gmail.com>` | [**ACCESS 42 STATS!** ➡️](https://profile.intra.42.fr/users/shrimech) |
 
 ---
