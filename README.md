@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🔥 WHO AM I? - The Code Dynamo!
 
-<!--
-**oualidobbad/oualidobbad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  ![Coding GIF](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+| 🌟 **About Salah Eddine** | 🚀 **My 42 Campus Mission** |
+| :--- | :--- |
+| 🧑‍💻 **Salah Eddine Hrimiche** | [![shrimech's 42 stats](https://badge.mediaplus.ma/greenbinary/shrimech)](https://profile.intra.42.fr/users/shrimech) |
+| 🎂 **The Year:** 2001 (Level Up ⬆️: 24!) | **Campus:** 1337 - Coding School RABAT |
+| ⚡️ CURRENT STATUS: **CRUSHING IT @ 1337!** 🚀 | **portfolio:** [shrimech.com](https://portfolio-ten-pearl-21.vercel.app/) |
+| 📬 **My Inbox:** `<eddinen77@gmail.com>` | [**ACCESS 42 STATS!** ➡️](https://profile.intra.42.fr/users/shrimech) |
+
+---
+
+
+
+## ⚡️ **Code Block Energy**
+
+*(Just a bit of C code for the nostalgic developers!)*
