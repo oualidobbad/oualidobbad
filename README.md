@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:F7A41D&height=200&section=header&text=Oualid%20Obbad&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Developer%20•%2042%20Student&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
-<p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=F7A41D&vCenter=true&width=500&lines=Systems+%26+Low-Level+Programming;Full-Stack+Web+Development;Algorithm+Design+%26+Optimization;42+Student+at+1337+%7C+UM6P+RABAT" alt="Typing SVG" />
 </p>
 
