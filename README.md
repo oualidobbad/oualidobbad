@@ -28,5 +28,5 @@ Completed core projects: `libft` → `ft_printf` → `push_swap` → `minitalk` 
 
 ## Contact
 - **42 Intra**: oobbad
--  https://badge.mediaplus.ma/levi/oobbad (https://profile.intra.42.fr/users/oobbad)
+-  [(https://badge.mediaplus.ma/levi/oobbad)] (https://profile.intra.42.fr/users/oobbad)
 - **GitHub**: [@oualidobbad](https://github.com/oualidobbad)
