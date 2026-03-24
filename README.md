@@ -6,9 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=F7A41D&vCenter=true&width=500&lines=Systems+%26+Low-Level+Programming;Full-Stack+Web+Development;Algorithm+Design+%26+Optimization;42+Student+at+1337+%7C+UM6P+RABAT" alt="Typing SVG" />
 </p>
 
-<a aligne="center" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/oobbad" alt="oobbad's 42 stats" /></a>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/oobbad" alt="oobbad's 42 stats" /></a>
+</p>
 
-<p>
+<p align="center">
   <a href="https://github.com/oualidobbad"><img src="https://img.shields.io/badge/GitHub-oualidobbad-181717?style=flat-square&logo=github" alt="GitHub" /></a>
   <a href="https://profile.intra.42.fr/"><img src="https://img.shields.io/badge/42-oobbad-000000?style=flat-square&logo=42&logoColor=white" alt="42 Profile" /></a>
   <img src="https://komarev.com/ghpvc/?username=oualidobbad&style=flat-square&color=F7A41D&label=Profile+Views" alt="Profile Views" />
