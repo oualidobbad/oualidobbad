@@ -1,105 +1,108 @@
-<h1 align="center">Hi, I'm Oualid Obbad 👋</h1>
-<p align="center">
-  <strong>42 Student | Software Developer | Lifelong Learner</strong>
-</p>
+<!-- 🔥 HEADER (Typing Animation) -->
+<h1 align="left">
+  Hi, I'm Oualid Obbad 👋
+</h1>
 
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/oobbad">
-    <img src="https://badge.mediaplus.ma/levi/oobbad" alt="42 Badge"/>
-  </a>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F7A41D&lines=Software+Developer;42+Student+at+1337;C+%7C+C%2B%2B+%7C+Java+%7C+Python+%7C+JS;Always+Learning+New+Things" />
 </p>
 
 ---
-<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-Passionate software developer and <strong>42 student at 1337 (UM6P)</strong>.<br>
-I build projects in <strong>C, C++, Java, Python, and JavaScript</strong> —<br>
+<!-- 🧑‍💻 ABOUT -->
+## 👨‍💻 About Me
+
+Passionate software developer and **42 student at 1337 (UM6P)**.  
+I build projects in **C, C++, Java, Python, and JavaScript** —  
 from low-level system programming to full-stack web applications.
+
+---
+
+<!-- ⚙️ TECH STACK (Badges style) -->
+## ⚙️ Tech Stack
+
+### 🖥️ Systems
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++98-00599C?style=for-the-badge&logo=cplusplus)
+
+### 🌐 Web
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+
+### 🧠 Backend
+![Python](https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-JDK25-red?style=for-the-badge&logo=java)
+![Node](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+
+---
+
+<!-- 🚀 FEATURED PROJECTS (Clickable Cards) -->
+## 🚀 Featured Projects
+
+### 🎮 cub3D
+> Wolfenstein-style 3D raycasting engine  
+🔗 https://github.com/oualidobbad/cub3D
+
+---
+
+### 🍝 philosophers
+> Multithreading with pthreads & mutex  
+🔗 https://github.com/oualidobbad/philosophers
+
+---
+
+### 🔢 push_swap
+> Optimized sorting algorithm using stacks  
+🔗 https://github.com/oualidobbad/push_swap
+
+---
+
+### 📦 CPP Modules
+> Full C++98 OOP learning path  
+🔗 https://github.com/oualidobbad/CPP
+
+---
+
+### 🤖 chat_bot_ISS
+> AI chatbot using Gemini + Gradio  
+🔗 https://github.com/oualidobbad/chat_bot_ISS
+
+---
+
+### 🛒 Amazon Clone
+> E-commerce frontend with vanilla JS  
+🔗 https://github.com/oualidobbad/amazon-clone
+
+---
+
+<!-- 📊 GITHUB STATS (Graphs) -->
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=oualidobbad&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oualidobbad&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-<h2 align="center">⚙️ Tech Stack</h2>
+<!-- 🔥 STREAK -->
+## 🔥 Streak Stats
 
-<p align="center">
-
-<table align="center">
-<tr>
-<td><strong>🖥️ Systems</strong></td>
-<td>C, C++98, POSIX, pthreads, MiniLibX</td>
-</tr>
-
-<tr>
-<td><strong>🌐 Web</strong></td>
-<td>JavaScript (ES6+), HTML5, CSS3, p5.js</td>
-</tr>
-
-<tr>
-<td><strong>🧠 Backend</strong></td>
-<td>Python 3, Java (JDK 25), Node.js</td>
-</tr>
-
-<tr>
-<td><strong>🤖 AI/ML</strong></td>
-<td>Google Gemini API, Gradio</td>
-</tr>
-
-<tr>
-<td><strong>🛠️ Tools</strong></td>
-<td>Git, Make, GCC/Clang, VS Code, Vim</td>
-</tr>
-
-<tr>
-<td><strong>💻 OS</strong></td>
-<td>Linux, macOS</td>
-</tr>
-</table>
-
+<p>
+  <img src="https://streak-stats.demolab.com?user=oualidobbad&theme=tokyonight" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+<!-- 🐍 SNAKE ANIMATION -->
+## 🐍 Contribution Snake
 
-<p align="center">
-
-🔹 <strong>cub3D</strong><br>
-<em>Wolfenstein-style 3D raycasting engine in C with MiniLibX</em><br><br>
-
-🔹 <strong>philosophers</strong><br>
-<em>Dining Philosophers with pthreads and mutex synchronization</em><br><br>
-
-🔹 <strong>push_swap</strong><br>
-<em>Stack sorting algorithm with optimized move count</em><br><br>
-
-🔹 <strong>CPP Modules (00–09)</strong><br>
-<em>Complete C++98 OOP curriculum</em><br><br>
-
-🔹 <strong>chat_bot_ISS</strong><br>
-<em>AI-powered educational chatbot (Gemini + Gradio)</em><br><br>
-
-🔹 <strong>Amazon Clone</strong><br>
-<em>E-commerce page with vanilla JS and DOM manipulation</em>
-
+<p>
+  <img src="https://raw.githubusercontent.com/oualidobbad/oualidobbad/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<h2 align="center">📈 42 Cursus Progress</h2>
-
-<p align="center">
-<code>libft</code> → <code>ft_printf</code> → <code>push_swap</code> → 
-<code>minitalk</code> → <code>so_long</code> → 
-<code>philosophers</code> → <code>cub3D</code> → <code>CPP00-09</code>
-</p>
-
----
-
-<h2 align="center">📬 Contact</h2>
-
-<p align="center">
-🔗 <strong>42 Intra:</strong> oobbad <br>
-🐙 <strong>GitHub:</strong> 
-<a href="https://github.com/oualidobbad">@oualidobbad</a>
-</p>
+<!-- 📈 42 PROGRESS -->
+## 📈 42 Cursus
