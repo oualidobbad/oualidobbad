@@ -1,22 +1,13 @@
-# oualidobbad
+    # oualidobbad
 
-## Description
-Personal profile repository containing notes and experiments.
+    Personal profile repository with notes, small experiments, and showcase material.
 
-## Features
-- Miscellaneous scripts, docs, and showcase material.
+    ## Contents
+    - Markdown notes, quick scripts, and demos.
+    - Links to other projects and learning artifacts.
 
-## Technologies Used
-- Mixed: Markdown and scripts.
+    ## Usage
+    - Browse for references and examples; run scripts as documented inside.
 
-## Installation
-- None required.
-
-## Usage
-- Browse the repo for references and personal projects.
-
-## Example
-- Open a demo script illustrating a concept.
-
-## Author
-- Oualid Obbad (@oualidobbad)
+    ## Author
+    Oualid Obbad (@oualidobbad)
