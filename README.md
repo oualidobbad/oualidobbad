@@ -1,7 +1,7 @@
 # Hi, I'm Oualid Obbad 👋
 
 **42 Student | Software Developer | Lifelong Learner**
-
+ [![oobbad badge](https://badge.mediaplus.ma/levi/oobbad)](https://profile.intra.42.fr/users/oobbad)
 ## About Me
 Passionate software developer and 42 student at 1337 (UM6P). I build projects in C, C++, Java, Python, and JavaScript — from low-level system programming to full-stack web applications.
 
@@ -28,5 +28,4 @@ Completed core projects: `libft` → `ft_printf` → `push_swap` → `minitalk` 
 
 ## Contact
 - **42 Intra**: oobbad
--  [(https://badge.mediaplus.ma/levi/oobbad)] (https://profile.intra.42.fr/users/oobbad)
 - **GitHub**: [@oualidobbad](https://github.com/oualidobbad)
