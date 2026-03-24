@@ -1,9 +1,4 @@
 <h1 align="center">Hi, I'm Oualid Obbad 👋</h1>
-
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" width="600"/>
-</p>
-
 <p align="center">
   <strong>42 Student | Software Developer | Lifelong Learner</strong>
 </p>
