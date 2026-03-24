@@ -1,7 +1,20 @@
-# Hi, I'm Oualid Obbad 👋
+<h1 align="center">Hi, I'm Oualid Obbad 👋</h1>
 
-**42 Student | Software Developer | Lifelong Learner**
- [![oobbad badge](https://badge.mediaplus.ma/levi/oobbad)](https://profile.intra.42.fr/users/oobbad)
+<p align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" width="600"/>
+</p>
+
+<p align="center">
+  <strong>42 Student | Software Developer | Lifelong Learner</strong>
+</p>
+
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/oobbad">
+    <img src="https://badge.mediaplus.ma/levi/oobbad" alt="42 Badge"/>
+  </a>
+</p>
+
+---
 ## About Me
 Passionate software developer and 42 student at 1337 (UM6P). I build projects in C, C++, Java, Python, and JavaScript — from low-level system programming to full-stack web applications.
 
