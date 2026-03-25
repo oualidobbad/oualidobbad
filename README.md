@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <h2>hello</h2>
-  <a href="https://profile.intra.42.fr/users/oobbad"><img src="https://badge.mediaplus.ma/levi/oobbad" alt="oobbad's 42 stats" /></a>
+   <a href='https://profile.intra.42.fr/users/oobbad'>
+    <img src='https://badge.mediaplus.ma/levi/oobbad' alt="oobbad's 42 stats">
+  </a>
 </p>
 
 <p align="center">
