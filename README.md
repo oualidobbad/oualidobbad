@@ -5,8 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=F7A41D&vCenter=true&width=500&lines=Systems+%26+Low-Level+Programming;Full-Stack+Web+Development;Algorithm+Design+%26+Optimization;42+Student+at+1337+%7C+UM6P+RABAT" alt="Typing SVG" />
 </p>
-
-[![oobbad's 42 stats](https://badge.mediaplus.ma/greenbinary/oobbad)](https://profile.intra.42.fr/users/oobbad)
+<p align="center">
+  <a href="https://profile.intra.42.fr/users/oobbad" target="_blank" rel="noreferrer noopener">
+    <img src="https://badge.mediaplus.ma/levi/oobbad.svg" alt="42 Profile – oobbad">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/oualidobbad"><img src="https://img.shields.io/badge/GitHub-oualidobbad-181717?style=flat-square&logo=github" alt="GitHub" /></a>
