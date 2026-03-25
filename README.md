@@ -76,7 +76,7 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
 <table>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/cub3D">🎮 cub3D</a></h3>
+      <h3><a href="https://github.com/oualidobbad/cub3d_mandatory">🎮 cub3D</a></h3>
       <p>A <b>Wolfenstein 3D–inspired raycasting engine</b> built from scratch in C using the MiniLibX graphics library. Implements DDA raycasting, texture mapping, sprite rendering, and real-time keyboard/mouse controls.</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -85,7 +85,7 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/philosophers">🍝 Philosophers</a></h3>
+      <h3><a href="https://github.com/oualidobbad/philosophers_42">🍝 Philosophers</a></h3>
       <p>Concurrent simulation of the <b>Dining Philosophers problem</b> using POSIX threads and mutexes. Explores deadlock avoidance, race condition prevention, and precise timing with microsecond-level synchronization.</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -96,7 +96,7 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/push_swap">🔢 push_swap</a></h3>
+      <h3><a href="https://github.com/oualidobbad/pushSwap">🔢 push_swap</a></h3>
       <p>An <b>optimized integer sorting algorithm</b> using two stacks and a restricted set of operations. Implements a custom sorting strategy (radix / chunk-based) targeting minimum operation count for 100–500 element inputs.</p>
       <p>
         <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -105,7 +105,7 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/CPP">📦 CPP Modules</a></h3>
+      <h3><a href="https://github.com/oualidobbad/CPP00">📦 CPP Modules</a></h3>
       <p>Progressive exploration of <b>C++98 OOP concepts</b> across 10 modules — from classes, inheritance, and polymorphism to templates, STL containers, and operator overloading.</p>
       <p>
         <img src="https://img.shields.io/badge/C++98-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -116,21 +116,21 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/chat_bot_ISS">🤖 chat_bot_ISS</a></h3>
-      <p>An <b>AI-powered chatbot</b> built with Google's Gemini API and a Gradio web interface. Provides real-time conversational AI with configurable prompts and streaming response generation.</p>
+      <h3><a href="https://github.com/oualidobbad/minishell">🐚 Minishell</a></h3>
+      <p>A <b>POSIX-compliant shell</b> built from scratch in C. Implements lexing, parsing, AST construction, heredocs, pipes, redirections, signal handling, and environment variable expansion.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square" />
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shell-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/POSIX-444444?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3><a href="https://github.com/oualidobbad/amazon-clone">🛒 Amazon Clone</a></h3>
-      <p>A <b>responsive e-commerce frontend</b> replicating Amazon's UI with vanilla JavaScript. Features product listing, cart management with localStorage, order tracking, and modular ES6 architecture.</p>
+      <h3><a href="https://github.com/oualidobbad/NetPractice">🌐 NetPractice</a></h3>
+      <p>Hands-on <b>networking fundamentals</b> — IP addressing, subnetting, routing tables, and TCP/IP configuration through practical exercises and network topology design.</p>
       <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/ES6_Modules-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/Networking-0078D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/TCP/IP-333333?style=flat-square" />
+        <img src="https://img.shields.io/badge/Subnetting-444444?style=flat-square" />
       </p>
     </td>
   </tr>
