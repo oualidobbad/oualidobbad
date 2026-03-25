@@ -8,9 +8,11 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/oobbad">
-    <img src="https://badge.mediaplus.ma/levi/oobbad" style="pointer-events: none;" />
+    <img src="https://badge.mediaplus.ma/levi/oobbad" />
   </a>
 </p>
+
+👉 [Visit my 42 profile](https://profile.intra.42.fr/users/oobbad)
 
 <p align="center">
   <a href="https://github.com/oualidobbad"><img src="https://img.shields.io/badge/GitHub-oualidobbad-181717?style=flat-square&logo=github" alt="GitHub" /></a>
