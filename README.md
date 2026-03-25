@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About Me
 
-Software developer and **42 student at 1337 (UM6P)**, focused on building robust software — from kernel-level systems programming to modern web applications.
+Software developer and **42 student at 1337 (UM6P) RABAT**, focused on building robust software — from kernel-level systems programming to modern web applications.
 
 - 🔧 &nbsp;Strong foundation in **systems programming** — memory management, process control, IPC, and POSIX APIs
 - 🧮 &nbsp;Passionate about **algorithms & data structures** — sorting optimizations, graph traversal, computational geometry
@@ -211,6 +211,15 @@ Currently progressing through the **42 Java Pool** — an intensive deep dive in
 | **05** | SQL & JDBC | Database interaction, SQL queries, Java Database Connectivity | 🔄 |
 
 > 🔗 [**pool_java**](https://github.com/oualidobbad/pool_java) — Full repository with all completed modules
+
+---
+
+## 📬 Contact
+
+<p>
+  <a href="mailto:oualidobbad@gmail.com"><img src="https://img.shields.io/badge/Email-oualidobbad@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/oualid-obbad/"><img src="https://img.shields.io/badge/LinkedIn-Oualid%20Obbad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
