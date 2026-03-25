@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  [[oobbad's 42 stats]!(https://badge.mediaplus.ma/levi/oobbad)](https://profile.intra.42.fr/users/oobbad)
+  <a href="https://profile.intra.42.fr/users/oobbad">
+    <img src="https://badge.mediaplus.ma/levi/oobbad" />
+  </a>
 </p>
 
 <p align="center">
