@@ -203,12 +203,12 @@ Currently progressing through the **42 Java Pool** — an intensive deep dive in
 
 | Module | Topic | Description | Status |
 |--------|-------|-------------|--------|
-| **00** | Basics | Java syntax, primitives, control flow, standard I/O | ✅ |
-| **01** | OOP Fundamentals | Classes, objects, encapsulation, constructors | ✅ |
-| **02** | Inheritance | Inheritance, interfaces, abstract classes, polymorphism | ✅ |
-| **03** | Collections | Lists, Sets, Maps, iterators, generics | ✅ |
-| **04** | I/O & Exceptions | File handling, streams, try/catch, custom exceptions | ✅ |
-| **05** | Threads & Concurrency | Multithreading, synchronization, thread pools | 🔄 |
+| **00** | Structures & Arrays | Java syntax, data types, arrays, and basic data structures | ✅ |
+| **01** | OOP & Collections | Object-Oriented Programming, Java Collections framework | ✅ |
+| **02** | IO & Files | Input/Output operations, file reading/writing, streams | ✅ |
+| **03** | Threads | Multithreading, concurrency, synchronization | ✅ |
+| **04** | JAR | Java Archive packaging, build management, deployment | ✅ |
+| **05** | SQL & JDBC | Database interaction, SQL queries, Java Database Connectivity | 🔄 |
 
 > 🔗 [**pool_java**](https://github.com/oualidobbad/pool_java) — Full repository with all completed modules
 
