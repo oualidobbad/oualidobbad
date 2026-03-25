@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/oobbad">
-    <img src="https://badge.mediaplus.ma/levi/oobbad" />
+    <img src="https://badge.mediaplus.ma/levi/oobbad" style="pointer-events: none;" />
   </a>
 </p>
 
