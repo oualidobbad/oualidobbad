@@ -190,6 +190,30 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
 
 ---
 
+## 📖 Self-Learning
+
+Beyond the 42 curriculum, I invest time in expanding my skill set independently:
+
+- 🌐 &nbsp;**HTML & CSS** — Built responsive web pages and practiced modern layout techniques (Flexbox, Grid)
+- ⚡ &nbsp;**JavaScript** — Learned the basics of DOM manipulation and frontend interactivity
+
+### ☕ Java Pool 42
+
+Currently progressing through the **42 Java Pool** — an intensive deep dive into Java and software engineering concepts.
+
+| Module | Topic | Description | Status |
+|--------|-------|-------------|--------|
+| **00** | Basics | Java syntax, primitives, control flow, standard I/O | ✅ |
+| **01** | OOP Fundamentals | Classes, objects, encapsulation, constructors | ✅ |
+| **02** | Inheritance | Inheritance, interfaces, abstract classes, polymorphism | ✅ |
+| **03** | Collections | Lists, Sets, Maps, iterators, generics | ✅ |
+| **04** | I/O & Exceptions | File handling, streams, try/catch, custom exceptions | ✅ |
+| **05** | Threads & Concurrency | Multithreading, synchronization, thread pools | 🔄 |
+
+> 🔗 [**pool_java**](https://github.com/oualidobbad/pool_java) — Full repository with all completed modules
+
+---
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i> — John Johnson
 </p>
