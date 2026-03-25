@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-   <a href='https://profile.intra.42.fr/users/oobbad'>
-    <img src='https://badge.mediaplus.ma/levi/oobbad' alt="oobbad's 42 stats">
-  </a>
+  [![oobbad's 42 stats](https://badge.mediaplus.ma/levi/oobbad)](https://profile.intra.42.fr/users/oobbad)
 </p>
 
 <p align="center">
