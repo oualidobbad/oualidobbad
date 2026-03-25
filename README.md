@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://profile.intra.42.fr/users/oobbad" target="_blank" rel="noreferrer noopener">
-    <img src="https://badge.mediaplus.ma/levi/oobbad.svg" alt="42 Profile – oobbad">
+    <img src="https://badge.mediaplus.ma/levi/oobbad" alt="42 Profile – oobbad">
   </a>
 </p>
 
