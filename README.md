@@ -176,13 +176,15 @@ Software developer and **42 student at 1337 (UM6P)**, focused on building robust
 | | get_next_line | File descriptor line reader with static variables | ✅ |
 | | Born2beroot | Linux sysadmin — VM setup, users, firewall, SSH | ✅ |
 | **Circle 2** | push_swap | Stack-based sorting algorithm optimization | ✅ |
-| | pipex | UNIX pipe and process redirection | ✅ |
+| | minitalk | UNIX signal-based client-server communication | ✅ |
 | | so_long | 2D tile-map game with MiniLibX | ✅ |
 | **Circle 3** | Philosophers | Multithreaded dining philosophers simulation | ✅ |
 | | minishell | Building a POSIX-compliant shell from scratch | ✅ |
 | **Circle 4** | cub3D | Raycasting 3D engine inspired by Wolfenstein 3D | ✅ |
-| | CPP Modules (00–09) | C++98 OOP fundamentals across 10 modules | ✅ |
-| **Circle 5** | ft_irc | IRC server implementation in C++98 | 🔄 |
+| | NetPractice | Networking fundamentals — IP addressing, subnetting, routing | ✅ |
+| | CPP Modules (00–04) | C++98 OOP foundations — classes, inheritance, polymorphism | ✅ |
+| **Circle 5** | CPP Modules (05–09) | Advanced C++98 — templates, STL containers, iterators | ✅ |
+| | webServ | HTTP/1.1 web server implementation in C++98 | 🔄 |
 
 > *Progress is updated as projects are completed and validated.*
 
