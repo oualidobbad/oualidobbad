@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://profile.intra.42.fr/users/oobbad">
-    <img src="https://badge.mediaplus.ma/colorfulwaves/oobbad" alt="oobbad's 42 stats" /></a>
+    <img src="https://badge.mediaplus.ma/binary/oobbad" alt="oobbad's 42 stats" /></a>
 </p>
 
 <p align="center">
