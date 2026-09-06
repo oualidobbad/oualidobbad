@@ -146,7 +146,7 @@ An NGINX-inspired server written from scratch, no external libraries. Single-thr
 </td>
 <td width="50%" valign="top">
 
-### [pool_java_part2](https://github.com/obbad-dev/pool_java_part2)
+### [java_backend](https://github.com/obbad-dev/pool_java_part2)
 **Java backend engineering**
 
 Four Maven modules covering a real backend's layers: a chat app on a normalized PostgreSQL schema with a JDBC repository layer and HikariCP pooling, JUnit 5 + Mockito tests against an embedded DB, a **custom ORM** driven by reflection and annotations, and DI through the Spring container.
