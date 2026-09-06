@@ -464,7 +464,7 @@ The full 42 C++ module series, working up from the basics to generic programming
 
 <br>
 
-**[pool_java](https://github.com/obbad-dev/pool_java)** — *Java (Modules 00–04)*
+**[Java_concepts](https://github.com/obbad-dev/pool_java)** — *Java (Modules 00–04)*
 The first half of the Java curriculum, ahead of the backend suite above:
 
 | Module | Focus |
